@@ -1,21 +1,14 @@
-# This is the first heading
-## This is the second heading
-### This is the third heading
-#### This is the fourth heading
-##### This is the fifth heading
-###### This is the sixth heading
-
 # Jeremy is never done
 
 - 👋 Hi, I’m @JeremyNB11
-- 👀 I’m interested in data science
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me : jeremy.yates0507@gmail.com
+- 🦍 [wangDer](http://zekun.wang)
 
-> 这是引用的内容
->> 这是引用的内容
->>>>>>>>>> 这是引用的内容
+
+![NBA](https://images.unsplash.com/photo-1588739853540-c493ed502b2c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80 "This is why we play")
 
 
 <!---
